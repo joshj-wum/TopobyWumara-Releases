@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "releaseDate": "21 September 2026",
   "downloadUrl": "https://github.com/joshj-wum/TopobyWumara-Releases/releases/download/TopobyWumara-Version-0.2.0/TopoSetup-0.2.0.exe",
-  "notes": "First public beta release of Topo by Wumara."
+  "notes": "TEST ONLY - not a real release.\n\nAdded:\n- Example release note one.\n- Example release note two.\n\nFixed:\n- Example fix."
 }
