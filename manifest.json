@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "releaseDate": "21 September 2026",
-  "downloadUrl": "https://github.com/joshj-wum/TopobyWumara-Releases/releases/download/TopobyWumara-Version-0.2.0/TopoSetup-0.2.0.exe",
-  "notes": "First public beta release of Topo by Wumara."
+  "version": "0.2.1",
+  "releaseDate": "22 September 2026",
+  "downloadUrl": "https://github.com/joshj-wum/TopobyWumara-Releases/releases/download/TopobyWumara-Version-0.2.1/TopoSetup-0.2.1.exe",
+  "notes": "Fixed:\n- Create from Points and Create from Lines: Floor and Roof shaping could produce wildly distorted, spiked geometry from normal, closely-spaced survey points, triggering Revit's \"extreme Shape Editing\" warning. Both now use the same proven shape-editing sequence as Create Surface from TIN Boundary."
 }
